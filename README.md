@@ -1,4 +1,4 @@
-ompleted my IPL Data Analysis project as part of my Data Analytics learning journey.
+Completed my IPL Data Analysis project as part of my Data Analytics learning journey.
 
 📊 Tools & Libraries Used:
 
